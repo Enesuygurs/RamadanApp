@@ -1,50 +1,55 @@
-# Welcome to your Expo app 👋
+# Ramadan Prayer Times App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A beautifully designed, modern prayer times application developed by Windsurf AI. This app provides accurate prayer times, countdown timers, and a seamless user experience for Muslims during Ramadan and throughout the year.
 
-## Get started
+## Features
 
-1. Install dependencies
+- **Real-time Prayer Times**: Track all six daily prayer times (İmsak, Güneş, Öğle, İkindi, Akşam, Yatsı)
+- **Smart Countdown Timer**: Shows time remaining until the next prayer
+- **Location-based Updates**: Automatically fetches prayer times based on your city
+- **Beautiful UI/UX**: Modern, clean interface with carefully chosen color schemes for each prayer time
+- **Visual Indicators**: Distinct icons and colors for each prayer time for better visualization
+- **Responsive Design**: Optimized for both iOS and Android platforms
 
-   ```bash
-   npm install
-   ```
+## Design Features
 
-2. Start the app
+- **Elegant Card Design**: Clean white backgrounds with subtle borders
+- **Consistent Typography**: Carefully selected font sizes and weights for optimal readability
+- **Intuitive Navigation**: Bottom navigation bar for easy access to different sections
+- **Smart Layout**: Proper spacing and padding throughout the app
+- **Accessibility**: Large touch targets and clear visual hierarchy
 
-   ```bash
-    npx expo start
-   ```
+## Technical Details
 
-In the output, you'll find options to open the app in a
+Built with:
+- React Native
+- Expo
+- TypeScript
+- Modern React patterns and best practices
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Unique Features
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- **Prayer Time Visualization**: Each prayer time features unique colors and icons:
+  - İmsak: Purple with moon icon
+  - Güneş: Amber with sunny icon
+  - Öğle: Orange with sunny-outline icon
+  - İkindi: Emerald with partly-sunny icon
+  - Akşam: Indigo with cloudy-night icon
+  - Yatsı: Deep Blue with moon-outline icon
 
-## Get a fresh project
+## Performance
 
-When you're ready, run:
+- Optimized rendering
+- Smooth animations
+- Efficient state management
+- Responsive UI elements
 
-```bash
-npm run reset-project
-```
+## Privacy
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+- No unnecessary permissions required
+- Location data used only for prayer time calculations
+- No data collection or tracking
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Developed with by Windsurf AI - Empowering Muslim communities with modern technology
