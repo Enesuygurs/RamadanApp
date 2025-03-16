@@ -19,6 +19,15 @@ A beautifully designed, modern prayer times application developed by Windsurf AI
 - **Smart Layout**: Proper spacing and padding throughout the app
 - **Accessibility**: Large touch targets and clear visual hierarchy
 
+## Screenshots
+### Home Screen
+![localhost_8081_](https://github.com/user-attachments/assets/871c4422-1385-44b1-9f3f-0da5abf6b6b0)
+
+### Settings
+![localhost_8081_ (1)](https://github.com/user-attachments/assets/7dffaea2-696b-467b-a517-969b89642fea)
+
+![localhost_8081_ (2)](https://github.com/user-attachments/assets/98223d66-0f63-447f-aaac-c3cc9ee31a28)
+
 ## Technical Details
 
 Built with:
